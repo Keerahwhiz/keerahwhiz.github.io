@@ -14,8 +14,8 @@ body{
     right: 40%;
 }
 .cont{
-    height: 70%;
-    width: 90%;
+    height: 50%;
+    width: 100vw;
     box-shadow: 5px 5px 5px 5px #aaaaaa;
     background-color: cornsilk;
     position: relative;
