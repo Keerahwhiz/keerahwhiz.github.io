@@ -50,7 +50,7 @@ button{
 #img {
    position: relative;
 left: 60%;
-bottom: 100%;
+top: 50%;
 width:20% ;
     height:10%;
 }
