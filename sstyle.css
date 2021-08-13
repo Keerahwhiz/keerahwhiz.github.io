@@ -1,0 +1,13 @@
+body{margin: 0%;
+padding: 0%;
+}
+.contain{
+    height: 50vh;
+    width: 80vw;
+}
+span{
+    color: cornflowerblue;
+}
+.mid{
+    font-size: bold;
+}
