@@ -47,11 +47,12 @@ button{
     font-size: 1rem;
     
 }
-#img {position: relative;
+#img {
+   position: relative;
 left: 60%;
 bottom: 100%;
 width:20% ;
-    height:20%;
+    height:10%;
 }
 
 
